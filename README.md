@@ -14,6 +14,7 @@ This project generates random horoscope-themed messages. Every time you run the 
 - JavaScript
 - Git and GitHub
 - Command line
+- Node.js and npm
 
 ## How to Run
 
@@ -27,11 +28,11 @@ This project generates random horoscope-themed messages. Every time you run the 
     ```
 3. Install dependencies:
     ```sh
-    npm install fs
+    npm install
     ```
 4. Run the program:
     ```sh
-    node main.js
+    npm start
     ```
 
 ## Future Improvements
@@ -39,6 +40,10 @@ This project generates random horoscope-themed messages. Every time you run the 
 - Convert this script into a web application.
 - Add more data categories to enhance the message variety.
 - Implement a user interface for better interaction.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
